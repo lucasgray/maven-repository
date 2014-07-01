@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ni</groupId>
+  <artifactId>lucasway</artifactId>
+  <version>0.3.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140701.135719</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140701135719</lastUpdated>
+  </versioning>
+</metadata>
